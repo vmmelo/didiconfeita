@@ -1,0 +1,46 @@
+@import './fonts.scss';
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding: 20% 0 0 0;
+}
+
+.bg-pink {
+  background-color: #EC7C71;
+}
+
+.btn-brown {
+  background-color: #59360E;
+  color: white;
+}
+
+.btn-brown:hover {
+  background-color: #59360E;
+  color: #EC7C71;
+}
+
+.bg-green {
+  background-color: #ADD2B0;
+}
+
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.btn-social {
+  cursor: pointer;
+}
+
+.btn-social i {
+  font-size: 20px;
+}
+
+.card {
+  width: 18rem;
+}
+
+body {
+  font-family: 'Roboto Light', sans-serif;
+}
+

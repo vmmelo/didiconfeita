@@ -1,0 +1,24 @@
+{
+  "extends": [
+    "plugin:react/recommended",
+    "airbnb"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "camelcase": "warn",
+    "semi": 0,
+    "import/no-unresolved": 0,
+    "react/jsx-uses-vars": 2,
+    "react/jsx-uses-react": 2,
+    "max-len": [1, {"code": 150}],
+    "comma-dangle": 0,
+    "indent": [1],
+    "react/jsx-props-no-spreading": "off"
+  }
+}

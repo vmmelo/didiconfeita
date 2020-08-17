@@ -1,0 +1,7 @@
+export const categories = ['Brownies', 'Bolos', 'Cookies']
+
+export const categoriesDescriptions = {
+  Brownies: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium hendrerit maximus. Quisque fringilla a dui ac cursus. Integer auctor mi tincidunt, efficitur nibh non, faucibus arcu. Suspendisse non dictum lorem. Proin auctor eu diam et auctor. Suspendisse a tellus quam. In hac habitasse platea dictumst. Fusce lobortis vulputate nisl, non blandit dolor consequat id. Vivamus lobortis nulla metus, at venenatis lorem efficitur in.',
+  Bolos: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium hendrerit maximus. Quisque fringilla a dui ac cursus. Integer auctor mi tincidunt, efficitur nibh non, faucibus arcu. Suspendisse non dictum lorem. Proin auctor eu diam et auctor. Suspendisse a tellus quam. In hac habitasse platea dictumst. Fusce lobortis vulputate nisl, non blandit dolor consequat id. Vivamus lobortis nulla metus, at venenatis lorem efficitur in.',
+  Cookies: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium hendrerit maximus. Quisque fringilla a dui ac cursus. Integer auctor mi tincidunt, efficitur nibh non, faucibus arcu. Suspendisse non dictum lorem. Proin auctor eu diam et auctor. Suspendisse a tellus quam. In hac habitasse platea dictumst. Fusce lobortis vulputate nisl, non blandit dolor consequat id. Vivamus lobortis nulla metus, at venenatis lorem efficitur in.',
+}

@@ -1,0 +1,20 @@
+{
+  "0": {
+    "url": "https://www.receitasnestle.com.br/images/default-source/recipes/brownie_alta.jpg?sfvrsn=aea75fc_0",
+    "descricao": "Descricao do brownie chocolate tal tal tal",
+    "titulo": "Brownie de chocolate",
+    "valor": "5.00"
+  },
+  "1": {
+    "url": "https://www.receitasnestle.com.br/images/default-source/recipes/brownie_alta.jpg?sfvrsn=aea75fc_0",
+    "descricao": "Descricao do brownie ninho tal tal tal",
+    "titulo": "Brownie de ninho",
+    "valor": "5.00"
+  },
+  "2": {
+    "url": "https://www.receitasnestle.com.br/images/default-source/recipes/brownie_alta.jpg?sfvrsn=aea75fc_0",
+    "descricao": "Descricao do brownie nutella tal tal tal",
+    "titulo": "Brownie de nutella",
+    "valor": "5.00"
+  }
+}
