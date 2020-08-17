@@ -5,6 +5,11 @@ html {
   scroll-padding: 20% 0 0 0;
 }
 
+body {
+  font-family: 'Roboto Light', sans-serif;
+    padding-top: 70px;
+}
+
 .bg-pink {
   background-color: #EC7C71;
 }
@@ -40,7 +45,7 @@ html {
   width: 18rem;
 }
 
-body {
-  font-family: 'Roboto Light', sans-serif;
+.navbar-brand img {
+  max-width: 200px;
 }
 

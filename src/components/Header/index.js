@@ -7,7 +7,7 @@ import { categories } from '../constant';
 
 function Header() {
   return (
-    <Navbar id="header" bg="pink" expand="lg">
+    <Navbar id="header" bg="pink" expand="lg" fixed="top">
       <Navbar.Brand href="#home">
         <img
           src={Logo}

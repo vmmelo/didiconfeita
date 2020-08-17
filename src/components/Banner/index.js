@@ -22,7 +22,7 @@ function Banner() {
                   alt={key.title}
                 />
                 <Carousel.Caption>
-                  <h3>{key.title}</h3>
+                  <h4>{key.title}</h4>
                   <p>{key.description}</p>
                 </Carousel.Caption>
               </Carousel.Item>
