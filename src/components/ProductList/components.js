@@ -8,6 +8,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     },
@@ -16,6 +17,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -23,6 +25,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -30,6 +33,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -37,6 +41,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -44,6 +49,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
 
@@ -56,6 +62,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     },
@@ -64,6 +71,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -71,6 +79,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -78,6 +87,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -85,6 +95,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -92,6 +103,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
 
@@ -103,6 +115,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     },
@@ -111,6 +124,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -118,6 +132,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -125,6 +140,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -132,6 +148,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     }, {
@@ -139,6 +156,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
+        price: 5.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
 

@@ -1,4 +1,5 @@
 @import './fonts.scss';
+@import './variables.scss';
 
 html {
   scroll-behavior: smooth;
@@ -11,26 +12,21 @@ body {
 }
 
 .bg-pink {
-  background-color: #EC7C71;
+  background-color: $pink;
 }
 
 .btn-brown {
-  background-color: #59360E;
+  background-color: $brown;
   color: white;
 }
 
 .btn-brown:hover {
-  background-color: #59360E;
-  color: #EC7C71;
+  background-color: $brown;
+  color: $pink;
 }
 
 .bg-green {
-  background-color: #ADD2B0;
-}
-
-.footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  background-color: $light-green;
 }
 
 .btn-social {
@@ -41,11 +37,21 @@ body {
   font-size: 20px;
 }
 
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
 .card {
   width: 18rem;
 }
 
 .navbar-brand img {
   max-width: 200px;
+}
+
+.badge-pink {
+  background-color: $brown;
+  color: white;
 }
 
