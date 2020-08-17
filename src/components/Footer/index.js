@@ -12,8 +12,6 @@ function Footer() {
     text: 'Olá, gostaria de comprar alguns itens do didiconfeita'
   })
 
-  console.log(queryStringWhatsapp)
-
   return (
     <section className="bg-pink footer text-center" id="footer">
       <Container fluid>
