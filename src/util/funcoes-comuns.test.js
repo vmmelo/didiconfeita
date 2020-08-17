@@ -1,4 +1,3 @@
-import React from 'react';
 import { floatToReal, serialize } from './funcoes-comuns';
 
 it('should convert float to BRL format', () => {
