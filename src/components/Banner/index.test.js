@@ -7,4 +7,5 @@ it('renders componente Banner sem quebrar', () => {
   const banner = render(<Banner />);
   expect(banner.getAllByRole('img').length).toBe(components.length)
   expect(banner.getAllByRole('button').length).toBe(2)
+  expect(banner.getAllByTestId('carousel-item').length).toBe(components.length)
 });

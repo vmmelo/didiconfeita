@@ -14,7 +14,7 @@ function Banner() {
         <Row className="justify-content-between align-items-center bg-green">
           <Carousel className="fluid">
             {components && components.map((key, index) => (
-              <Carousel.Item key={`banner_${index}`} interval={1000}>
+              <Carousel.Item data-testid="carousel-item" key={`banner_${index}`} interval={1000}>
                 <Image
                   rounded
                   className="d-block w-100"
