@@ -4,7 +4,7 @@ export default [
   {
     title: 'Brownie de ninho com nutella',
     image: Brownie,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit..',
   },
   {
     title: 'Brownie de chocolate com oreo',
