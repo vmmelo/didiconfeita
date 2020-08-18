@@ -1,0 +1,8 @@
+deploy:
+  provider: pages
+  skip_cleanup: true
+  TRAVIS_SECURE_ENV_VARS: true
+  github_token: $TRAVIS_SECRET_KEY  #  f2a972c2aa00cbda9406f9082e7743bee375e145
+  keep_history: true
+  on:
+    branch: master
