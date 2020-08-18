@@ -5,6 +5,6 @@ export const serialize = (obj) => {
 }
 
 export const floatToReal = (valor) => {
-  if (!valor || typeof parseFloat(valor) !== 'number') return '0,00'
+  if (!valor || typeof parseFloat(valor) !== 'number' || Number.isNaN(parseFloat(valor))) return 'R$ 0,00'
   return `R$ ${parseFloat(valor).toFixed(2)}`.replace('.', ',')
 }

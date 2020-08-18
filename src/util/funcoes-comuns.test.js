@@ -7,6 +7,10 @@ it('should convert float to BRL format', () => {
   expect(money).toBe('R$ 5,00');
   money = floatToReal(5000);
   expect(money).toBe('R$ 5000,00');
+  money = floatToReal(0);
+  expect(money).toBe('R$ 0,00');
+  money = floatToReal('aaaaa');
+  expect(money).toBe('R$ 0,00');
 });
 
 it('should serialize object', () => {
