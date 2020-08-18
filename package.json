@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react": "^10.4.8",
     "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.21.2",

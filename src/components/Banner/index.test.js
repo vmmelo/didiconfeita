@@ -1,10 +1,10 @@
 import React from 'react';
-import { shallow } from 'enzyme';
+import { render } from '@testing-library/react';
 import Banner from '.';
-import components from './components'
+import components from './components';
 
 it('renders componente Banner sem quebrar', () => {
-  const component = shallow(<Banner />);
-  expect(component.find('div.carousel-item')).toHaveLength(components.length);
-//  expect(instance.state.text).toBe('');
+  const banner = render(<Banner />);
+  expect(banner.getAllByRole('img').length).toBe(components.length)
+  expect(banner.getAllByRole('button').length).toBe(2)
 });
