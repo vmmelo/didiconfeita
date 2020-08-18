@@ -1,9 +1,7 @@
 import React from 'react'
-import { shallow } from 'enzyme'
+import { render } from '@testing-library/react';
 import App from './App';
 
-describe('App tests', () => {
-  it('App should render without errors', () => {
-    shallow(<App />)
-  })
+it('App should render without errors', () => {
+  render(<App />)
 })

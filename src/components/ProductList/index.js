@@ -18,9 +18,9 @@ function ProductList(props) {
         </p>
         <Row className="justify-content-between align-items-center bg-green">
           {
-            componentList && componentList[title] && componentList[title].map((card) => (
+            componentList && componentList[title] && componentList[title].map((card, index) => (
               <card.component
-                key={`card${card}`}
+                key={`card_${index}`}
                 {...card.props}
               />
             ))

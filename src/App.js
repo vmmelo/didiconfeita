@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Header />
       <Banner />
-      {categories.map((key) => <ProductList key={`list_${key}`} title={key} description={categoriesDescriptions[key]} />)}
+      {categories.map((key, index) => <ProductList key={`list_${index}`} title={key} description={categoriesDescriptions[key]} />)}
       <Footer />
     </div>
   );
