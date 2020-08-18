@@ -8,7 +8,7 @@ export default {
       props: {
         title: 'Brownie de ninho com nutella',
         image: Brownie,
-        price: 5.00,
+        price: 7.00,
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       }
     },
