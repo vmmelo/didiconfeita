@@ -1,4 +1,4 @@
-import Product from 'components/Product'
+import Product from '../Product'
 import Brownie from '../../assets/brownie.jpg'
 
 export default {
