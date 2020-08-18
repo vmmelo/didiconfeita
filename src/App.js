@@ -1,10 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles/index.scss';
-import Header from 'components/Header'
-import Banner from 'components/Banner'
-import ProductList from 'components/ProductList'
-import Footer from 'components/Footer';
+import Header from './components/Header'
+import Banner from './components/Banner'
+import ProductList from './components/ProductList'
+import Footer from './components/Footer';
 import { categories, categoriesDescriptions } from './components/constant';
 
 function App() {

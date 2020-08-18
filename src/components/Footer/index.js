@@ -4,7 +4,7 @@ import {
 } from 'react-bootstrap'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faInstagram, faWhatsapp } from '@fortawesome/free-brands-svg-icons'
-import { serialize } from 'util/funcoes-comuns'
+import { serialize } from '../../util/funcoes-comuns'
 
 function Footer() {
   const queryStringWhatsapp = serialize({
