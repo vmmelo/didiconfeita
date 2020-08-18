@@ -24,7 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --coverage --passWithNoTests",
+    "test": "react-scripts test --coverage",
     "eject": "react-scripts eject",
     "lint": "./node_modules/.bin/eslint ./src",
     "predeploy": "npm run build",
@@ -67,6 +67,12 @@
   "lint-staged": {
     "*.js": [
       "./node_modules/.bin/eslint --fix"
+    ]
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/index.js"
     ]
   }
 }
