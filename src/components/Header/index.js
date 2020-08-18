@@ -2,7 +2,7 @@ import React from 'react'
 import {
   Nav, Navbar
 } from 'react-bootstrap'
-import Logo from 'assets/logo2.jpg'
+import Logo from 'assets/logo2.png'
 import { categories } from '../constant';
 
 function Header() {
