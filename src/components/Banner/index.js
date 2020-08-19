@@ -9,7 +9,7 @@ import components from './components'
 
 function Banner() {
   return (
-    <section className="bg-green pt-3 pb-3">
+    <section id="home" className="bg-green pt-3 pb-3">
       <Container>
         <Row className="justify-content-between align-items-center bg-green">
           <Carousel className="fluid">
