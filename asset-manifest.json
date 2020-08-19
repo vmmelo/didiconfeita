@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/didiconfeita/static/css/main.74bc8795.chunk.css",
+    "main.js": "/didiconfeita/static/js/main.f3fe911a.chunk.js",
+    "main.js.map": "/didiconfeita/static/js/main.f3fe911a.chunk.js.map",
+    "runtime-main.js": "/didiconfeita/static/js/runtime-main.8f3d2dca.js",
+    "runtime-main.js.map": "/didiconfeita/static/js/runtime-main.8f3d2dca.js.map",
+    "static/css/2.11829350.chunk.css": "/didiconfeita/static/css/2.11829350.chunk.css",
+    "static/js/2.e0fb5404.chunk.js": "/didiconfeita/static/js/2.e0fb5404.chunk.js",
+    "static/js/2.e0fb5404.chunk.js.map": "/didiconfeita/static/js/2.e0fb5404.chunk.js.map",
+    "index.html": "/didiconfeita/index.html",
+    "precache-manifest.f2ffcbcc563bf409ba3bfa6b43de8a16.js": "/didiconfeita/precache-manifest.f2ffcbcc563bf409ba3bfa6b43de8a16.js",
+    "service-worker.js": "/didiconfeita/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/didiconfeita/static/css/2.11829350.chunk.css.map",
+    "static/css/main.74bc8795.chunk.css.map": "/didiconfeita/static/css/main.74bc8795.chunk.css.map",
+    "static/js/2.e0fb5404.chunk.js.LICENSE.txt": "/didiconfeita/static/js/2.e0fb5404.chunk.js.LICENSE.txt",
+    "static/media/Roboto-Light.ttf": "/didiconfeita/static/media/Roboto-Light.88823c20.ttf",
+    "static/media/brownie.jpg": "/didiconfeita/static/media/brownie.0ce1c7a8.jpg",
+    "static/media/logo2.png": "/didiconfeita/static/media/logo2.307010b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3d2dca.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.e0fb5404.chunk.js",
+    "static/css/main.74bc8795.chunk.css",
+    "static/js/main.f3fe911a.chunk.js"
+  ]
+}
