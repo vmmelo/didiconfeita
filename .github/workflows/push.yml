@@ -1,8 +1,5 @@
 name: Test and Lint
-on:
-  push:
-    branches:
-      - master
+on: [push]
 jobs:
   test-and-lint:
     runs-on: ubuntu-latest
