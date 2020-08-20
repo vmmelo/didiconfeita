@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/didiconfeita/static/css/main.74bc8795.chunk.css",
-    "main.js": "/didiconfeita/static/js/main.acdf1750.chunk.js",
-    "main.js.map": "/didiconfeita/static/js/main.acdf1750.chunk.js.map",
+    "main.css": "/didiconfeita/static/css/main.38da4ad5.chunk.css",
+    "main.js": "/didiconfeita/static/js/main.1f4daccc.chunk.js",
+    "main.js.map": "/didiconfeita/static/js/main.1f4daccc.chunk.js.map",
     "runtime-main.js": "/didiconfeita/static/js/runtime-main.8f3d2dca.js",
     "runtime-main.js.map": "/didiconfeita/static/js/runtime-main.8f3d2dca.js.map",
     "static/css/2.11829350.chunk.css": "/didiconfeita/static/css/2.11829350.chunk.css",
     "static/js/2.e0fb5404.chunk.js": "/didiconfeita/static/js/2.e0fb5404.chunk.js",
     "static/js/2.e0fb5404.chunk.js.map": "/didiconfeita/static/js/2.e0fb5404.chunk.js.map",
     "index.html": "/didiconfeita/index.html",
-    "precache-manifest.9dd0d6541ec44e619a6229c80a3447a7.js": "/didiconfeita/precache-manifest.9dd0d6541ec44e619a6229c80a3447a7.js",
+    "precache-manifest.1b0011739a8bdf08d0d30997b5692744.js": "/didiconfeita/precache-manifest.1b0011739a8bdf08d0d30997b5692744.js",
     "service-worker.js": "/didiconfeita/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/didiconfeita/static/css/2.11829350.chunk.css.map",
-    "static/css/main.74bc8795.chunk.css.map": "/didiconfeita/static/css/main.74bc8795.chunk.css.map",
+    "static/css/main.38da4ad5.chunk.css.map": "/didiconfeita/static/css/main.38da4ad5.chunk.css.map",
     "static/js/2.e0fb5404.chunk.js.LICENSE.txt": "/didiconfeita/static/js/2.e0fb5404.chunk.js.LICENSE.txt",
     "static/media/Roboto-Light.ttf": "/didiconfeita/static/media/Roboto-Light.88823c20.ttf",
     "static/media/brownie.jpg": "/didiconfeita/static/media/brownie.0ce1c7a8.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.8f3d2dca.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.e0fb5404.chunk.js",
-    "static/css/main.74bc8795.chunk.css",
-    "static/js/main.acdf1750.chunk.js"
+    "static/css/main.38da4ad5.chunk.css",
+    "static/js/main.1f4daccc.chunk.js"
   ]
 }
