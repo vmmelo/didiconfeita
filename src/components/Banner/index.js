@@ -22,7 +22,6 @@ function Banner() {
                   alt={key.title}
                 />
                 <Carousel.Caption>
-                  <h4>{key.title}</h4>
                   <p>{key.description}</p>
                 </Carousel.Caption>
               </Carousel.Item>
