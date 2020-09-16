@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Didiconfeita CI
 
 on:
   push:
