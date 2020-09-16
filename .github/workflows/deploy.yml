@@ -23,7 +23,7 @@ jobs:
       - name: Upload build folder
         uses: actions/upload-artifact@v2
         with:
-          name: build_folder
+          name: build
           path: ./build/
 
   deploy:
@@ -39,7 +39,7 @@ jobs:
       - name: Download build folder
         uses: actions/download-artifact@v2
         with:
-          name: build_folder
+          name: build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.5.9
         with:
